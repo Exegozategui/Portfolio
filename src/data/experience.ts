@@ -30,7 +30,7 @@ export const EXPERIENCE: ExperienceProp[] = [
       "Actualmente formo parte de la Fundación Somos Firca, una organización dedicada a la reforestación. Colaboro en el diseño y desarrollo de su página web, aplicando metodologías ágiles para garantizar que la plataforma refleje adecuadamente la misión y valores de la fundación, mientras apoyo en la mejora continua del sitio.",
     technologies: [
       "HTML",
-      "Javascritp",
+      "Javascript",
       "CSS",
       "Jquery",
       "Firebase",
